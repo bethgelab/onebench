@@ -1,0 +1,16 @@
+datasets
+fastparquet
+google-cloud-storage
+hydra-core
+matplotlib
+# polars is with conda
+pyarrow
+rapidfuzz
+requests
+scikit-learn
+choix
+plotly
+scienceplots
+prometheus-eval
+vllm
+pandas
