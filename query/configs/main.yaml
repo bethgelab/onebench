@@ -1,0 +1,11 @@
+defaults:
+  - _self_
+
+query: null
+answer_query: null
+top_k: 10
+threshold: 0.7
+benchmark: all
+return_similarity: false
+
+filters: {}
